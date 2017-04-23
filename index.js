@@ -12,6 +12,7 @@ function createMainWindow() {
 		width: 1920,
 		minWidth: 500,
 		height: 1080,
+		minHeight: 700,
 		title: "Tootee",
 		backgroundColor: '#2e2c29',
 		webPreferences: {
